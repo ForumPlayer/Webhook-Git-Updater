@@ -1,0 +1,11 @@
+{
+  "name": "webhook-updater",
+  "version": "1.0.0",
+  "main": "webhook-updater.js",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  },
+  "author": "ForumPlayer",
+  "license": "ISC",
+  "description": ""
+}
